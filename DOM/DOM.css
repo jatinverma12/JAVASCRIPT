@@ -1,0 +1,16 @@
+button{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    color:yellowgreen;
+}
+.box{
+    height:200px;
+    width:200px;
+}
+
+#boxes{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
