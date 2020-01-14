@@ -9,3 +9,7 @@
 //    console.log(data);
 //});
 
+axios.get("www.google.com").then((val)=>{
+    console.log(val);
+})
+

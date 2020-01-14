@@ -1,1 +1,4 @@
 --INNERTEXT DOES NOT FAVOUR NESTED TAGS BUT TEXT CONTENT DOES.
+---btoa("string")= is the method to converts the string to base 64
+==to get the original string method is atob("base64 string")
+---materialize css is a great tool
